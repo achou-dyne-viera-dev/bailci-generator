@@ -1,4 +1,7 @@
-![Logo](IMG-20261025-WA5641.jpg)
+![Logo](IMG-20261025-WA5917.jpg)
+![Carte de visite](IMG-20261025-WA5641.jpg)
+
+# 🇨🇮 BailCI Generator - Legal Tech Côte d'Ivoire
 # BailCI Generator 🇨🇮
 
 Générateur de baux d'habitation conformes au **décret n°2026-596 du 6 juillet 2026** (en vigueur 01/10/2026).
