@@ -1,4 +1,4 @@
-![Logo](IMG-20261025-WA0000.jpg)
+![Logo](IMG-20261025-WA5641.jpg)
 # BailCI Generator 🇨🇮
 
 Générateur de baux d'habitation conformes au **décret n°2026-596 du 6 juillet 2026** (en vigueur 01/10/2026).
